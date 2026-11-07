@@ -1,0 +1,6 @@
+{
+  "name": "SPIDER NETWORK MODE",
+  "description": "مراقب وأدوات التحكم في أوضاع شبكة الجوال المتقدمة ومعلومات الشريحة - تطوير المبرمج باسل الشرعاوي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
